@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lehau.InvestmentTracker" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Investment Tracker</name>
+    <description>Portfolio management with real-time stock prices, performance analytics, and market news</description>
+    <author email="dev@linhfish.com" href="https://cordova.apache.org">
+        LinhFish Development Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
